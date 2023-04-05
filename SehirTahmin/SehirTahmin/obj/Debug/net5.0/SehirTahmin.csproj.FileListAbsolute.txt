@@ -1,0 +1,16 @@
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\bin\Debug\net5.0\SehirTahmin.exe
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\bin\Debug\net5.0\SehirTahmin.deps.json
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\bin\Debug\net5.0\SehirTahmin.runtimeconfig.json
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\bin\Debug\net5.0\SehirTahmin.runtimeconfig.dev.json
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\bin\Debug\net5.0\SehirTahmin.dll
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\bin\Debug\net5.0\SehirTahmin.pdb
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\obj\Debug\net5.0\SehirTahmin.csproj.AssemblyReference.cache
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\obj\Debug\net5.0\SehirTahmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\obj\Debug\net5.0\SehirTahmin.AssemblyInfoInputs.cache
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\obj\Debug\net5.0\SehirTahmin.AssemblyInfo.cs
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\obj\Debug\net5.0\SehirTahmin.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\obj\Debug\net5.0\SehirTahmin.dll
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\obj\Debug\net5.0\refint\SehirTahmin.dll
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\obj\Debug\net5.0\SehirTahmin.pdb
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\obj\Debug\net5.0\SehirTahmin.genruntimeconfig.cache
+C:\Users\Pasha\Desktop\Architect 2. Aşama\C#\SehirTahmin\SehirTahmin\obj\Debug\net5.0\ref\SehirTahmin.dll
